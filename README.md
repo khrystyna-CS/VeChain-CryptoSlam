@@ -100,17 +100,17 @@ To have the required accuracy and reliability we will have to setup a node/api o
 | Monthly data support | MoM | Support data accuracy on the CryptoSlam platform |
 
 ## Team
-| Engineers | Artem Kharlov |
+| Team | Contact Person|
 | --- | --- |
+| Engineering Lead  | Artem Kharlov |
 | Marketing | Yohann Calpu |
 | Community  | Yehudah Petscher |
 | Product | Pasquin Rahming |
-| Engineering Lead | Artem Kharlov |
 
 ## Quote
-
-| Onboarding/Blockchain integration | $28k |
+| Work | Price|
 | --- | --- |
+| Onboarding/Blockchain integration | $28k |
 | Blockchain explorer page | $3.5k |
 | Data accuracy. Dedicated team support | $6k MoM |
 | Marketing/Community support | TBD |
