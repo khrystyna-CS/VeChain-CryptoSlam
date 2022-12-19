@@ -1,5 +1,7 @@
 # VeChain-CryptoSlam
 Project: Integrate VeChain blockchain on CryptoSlam platform
+Payment Address: 0x5aE970dcb37067Aed6F9578b64482dF9D91622B3
+
 
 # Overview
 - CryptoSlam is a data aggregator tool for the NFTs that connect Collectibles, Art and Game communities enables NFT data for over 20 high-volume blockchain:
@@ -110,7 +112,7 @@ To have the required accuracy and reliability we will have to setup a node/api o
 ## Quote
 | Work | Price|
 | --- | --- |
-| Onboarding/Blockchain integration | $28k |
+| Onboarding/Blockchain integration | $30k |
 | Blockchain explorer page | $3.5k |
 | Data accuracy. Dedicated team support | $6k MoM |
 | Marketing/Community support | TBD |
