@@ -107,7 +107,7 @@ To have the required accuracy and reliability we will have to setup a node/api o
 | 1.2 | Get tokens metadata | Get all NFTs metadata from blockchain |
 | 1.3 | Onboarding | Setup automation to pick up any new collections being created on the blockchain |
 
-## Milestone #1
+## Milestone #2
 | Number | Deliverable | Specifications |
 | --- | --- | --- |
 | 1 | Sales summary  | Include all historical data and data visualization  |
