@@ -92,15 +92,27 @@ To have the required accuracy and reliability we will have to setup a node/api o
 | Historical crawling | 4-6 weeks |
 
 # Full Project Roadmap
-## Duration and Milestones
-| Task | Duration | Months |
+## Overview
+|  | Milestone #1 | Milestone #2 | Total |
+| --- | --- | --- | --- |
+| Estimated duration | 2.5 months  | 1 week | 3 months |
+| Full-time equivalent (FTE) | 1 | 1 |  |
+| Cost  | $28,000 | $2,000 | $30, 000 |
+
+## Milestone #1
+| Number | Deliverable | Specifications |
 | --- | --- | --- |
-| Onboarding | 3 months | January 2023-March 2023 |
-| Blockchain Page | 1 week | March 2023 |
-| Ads/ Promo | To be discussed  | Dates are flexible. Depend on the ads schedule |
-| Podcast  | 1 week | One time Podcast release with VeChain reps. This initiative included to the original proposal.  |
-| Other Marketing/Social Activity | To be discussed  | Dates are flexible. Depend on the ads schedule |
-| Monthly data support | MoM | Support data accuracy on the CryptoSlam platform |
+| 1 | Investigate nodes | Investigate and setup best way for getting data out of a blockchain, check external providers |
+| 1.1 | Organize transaction types/events from the blockchain | Identify possible transaction types, events, structures, setup tracking and storing of those transactions |
+| 1.2 | Get tokens metadata | Get all NFTs metadata from blockchain |
+| 1.3 | Onboarding | Setup automation to pick up any new collections being created on the blockchain |
+
+## Milestone #1
+| Number | Deliverable | Specifications |
+| --- | --- | --- |
+| 1 | Sales summary  | Include all historical data and data visualization  |
+| 1.1 | NFT Collections | All VeChain collections with the rankings  (Sales, transaction,  Seller/Buyer wallets, Owners count) |
+| 1.2 | Top Sales | Price (Crypto, USD), Seller/Buyer wallets |
 
 ## Team
 | Team | Contact Person|
@@ -110,12 +122,5 @@ To have the required accuracy and reliability we will have to setup a node/api o
 | Community  | Yehudah Petscher |
 | Product | Pasquin Rahming |
 
-## Quote
-| Work | Price|
-| --- | --- |
-| Onboarding/Blockchain integration | $30k |
-| Blockchain explorer page | $3.5k |
-| Data accuracy. Dedicated team support | $6k MoM |
-| Marketing/Community support | TBD |
 
     
